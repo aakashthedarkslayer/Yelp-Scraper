@@ -31,3 +31,4 @@ Automated Pagination Handling
 Disclaimer
 
 This project is intended for educational and research purposes. Users are responsible for complying with Yelp's Terms of Service and all applicable laws and regulations.
+Run CMD: python yp_scraper_cloudflare_bypass_FIXED_1.py --max 3000 --no-headless
